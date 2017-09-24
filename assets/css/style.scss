@@ -3,9 +3,8 @@
 
 @import "{{ site.theme }}";
 
-$grey-color:       #828282;
+$grey-color:       #727272;
 $grey-color-light: lighten($grey-color, 40%);
-$spacing-unit:     30px;
 
 header {
   text-align: center;
@@ -38,8 +37,8 @@ ul.centerUL {
 }
 
 .nav a {
-    margin:0 0 20px;
-    line-height:1.1;
+    margin: 0 0 20px;
+    line-height: 1.1;
     font-size: 1.3em;
     margin-top: 0;
     margin-bottom: 10px;
@@ -47,12 +46,11 @@ ul.centerUL {
     margin-right: 0;
     font-weight: bold;
     text-align: right;
-    color:#393939;
+    color: #393939;
 }
 
 .nav a:hover, a:focus {
-    color:#069;
-    font-weight: bold;
+    color: #069;
 }
 
 .icon {
