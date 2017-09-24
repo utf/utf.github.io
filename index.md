@@ -16,3 +16,7 @@ particularly interested in photovoltaics and thermoelectrics.
 
  - **2017** Best use of ARCHER (UK national supercomputer)
  - **2015** Violet Horshall Prize, University College London
+
+### Links
+ - [Google Scholar](https://scholar.google.co.uk/citations?user=nVJFXWwAAAAJ)
+ - [Speaker Deck](https://speakerdeck.com/utf)
