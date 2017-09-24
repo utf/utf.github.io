@@ -1,3 +1,7 @@
+---
+title: About
+---
+
 ## Welcome
 
 I'm a final year PhD student in Computational Chemistry at University
