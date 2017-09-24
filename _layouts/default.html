@@ -27,10 +27,16 @@
       <section>
 
       <div class='nav ruled'>
-        <a href='index.html'>About</a>
+        {% if page.title != 'About' %}
+          <a href='index.html'>About</a>
+        {% endif %}
         <a href='https://scholar.google.co.uk/citations?user=nVJFXWwAAAAJ'>Publications</a>
-        <a href='talks.html'>Talks</a>
-        <a href='software.html'>Software</a>
+        {% if page.title != 'Talks' %}
+          <a href='talks.html'>Talks</a>
+        {% endif %}
+        {% if page.title != 'Software' %}
+          <a href='software.html'>Software</a>
+        {% endif %}
       </div>
 
       {{ content }}
