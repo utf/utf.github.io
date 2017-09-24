@@ -3,7 +3,7 @@ title: Talks
 permalink: /talks/
 ---
 
-The slides for most of my talks can be found on my [Speaker Deck](https://speakerdeck.com/utf).
+The slides for most of my talks can be found on [Speaker Deck](https://speakerdeck.com/utf).
 
 ### Conference Presentations
 
