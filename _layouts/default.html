@@ -16,7 +16,7 @@
     <div class="wrapper">
       <header>
         <p><img width="180" src="{{ site.baseurl }}/assets/images/profile.png"></p>
-        <a href="index.html"><h1>{{ site.title | default: site.github.repository_name }}</h1></a>
+        <a href="/index.html"><h1>{{ site.title | default: site.github.repository_name }}</h1></a>
 
         <p>Final year EngD student, University College London</p>
 
@@ -27,14 +27,14 @@
 
       <div class='nav ruled'>
         {% if page.title != 'About' %}
-          <a href='index.html'>About</a>
+          <a href='/index.html'>About</a>
         {% endif %}
         <a href='https://scholar.google.co.uk/citations?user=nVJFXWwAAAAJ'>Publications</a>
         {% if page.title != 'Talks' %}
-          <a href='talks.html'>Talks</a>
+          <a href='/talks'>Talks</a>
         {% endif %}
         {% if page.title != 'Software' %}
-          <a href='software.html'>Software</a>
+          <a href='/software'>Software</a>
         {% endif %}
       </div>
 

@@ -1,5 +1,6 @@
 ---
 title: Software
+permalink: /software/
 ---
 
 I'm an active contributor to several open-source software packages, particularly [pymatgen](https://github.com/materialsproject/pymatgen). See my [github page](https://github.com/utf) for more details.

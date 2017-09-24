@@ -24,5 +24,5 @@ Currently, I'm particularly interested in photovoltaics and thermoelectrics.
  - **2015** Violet Horshall Prize, University College London
 
 ### Links
- - [Google Scholar](https://scholar.google.co.uk/citations?user=nVJFXWwAAAAJ)
+ - [My CV](assets/docs/Alex_Ganose_CV.pdf)
  - [Speaker Deck](https://speakerdeck.com/utf)
