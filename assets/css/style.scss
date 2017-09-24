@@ -5,6 +5,17 @@
 
 $grey-color:       #727272;
 $grey-color-light: lighten($grey-color, 40%);
+$header-link-height: 35px;
+
+.ruled {
+    border-bottom: 1px solid $grey-color-light;
+    padding-bottom: 10px;
+}
+
+
+/**
+* Header
+**/
 
 header {
   text-align: center;
@@ -12,24 +23,19 @@ header {
 
 header ul {
   text-align: center;
-  margin:0 auto;
+  height: $header-link-height;
+  margin:20px auto;
 }
 
-ul.centerUL {
-    margin:20px auto;
-    line-height: 1.4;
-    padding-left: 0;
-}
-
-.centerUL li {
-    text-align: center;
+header li {
+  text-align: center;
+  height: $header-link-height;
 }
 
 
-.ruled {
-    border-bottom: 1px solid $grey-color-light;
-    padding-bottom: 10px;
-}
+/**
+* Navigation
+**/
 
 .nav {
   margin-bottom: 20px;
@@ -37,13 +43,9 @@ ul.centerUL {
 }
 
 .nav a {
-    margin: 0 0 20px;
+    margin: 0 0 10px 20px;
     line-height: 1.1;
     font-size: 1.3em;
-    margin-top: 0;
-    margin-bottom: 10px;
-    margin-left: 20px;
-    margin-right: 0;
     font-weight: bold;
     text-align: right;
     color: #393939;
@@ -53,11 +55,21 @@ ul.centerUL {
     color: #069;
 }
 
+@media print, screen and (max-width: 720px) {
+  .nav {
+    text-align: center;
+  }
+}
+
+
+/**
+* Icons
+**/
 .icon {
     > svg {
         display: inline-block;
-        width: 25px;
-        height: 25px;
+        width: 23px;
+        height: 23px;
         vertical-align: middle;
         path {
             fill: $grey-color;
@@ -65,10 +77,11 @@ ul.centerUL {
     }
 }
 
-a .icon:hover, .icon:focus{
+header a:hover, a:focus{
+  .icon{
     > svg {
         path {
             fill: #069;
         }
-    }
+    }}
 }
