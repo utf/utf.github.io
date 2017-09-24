@@ -18,7 +18,7 @@ and singlet fission organics.
 
  - **EngD** *Molecular Modelling and Materials Science*, UCL, 2015 – present
  - **MRes. (Distinction)** *Molecular Modelling and Materials Science*, UCL, 2014 – 2015
- - **MSci. (Hons)** *Natural Sciences*, UCL, 2010 – 2014
+ - **MSci. (1st Class Hons)** *Natural Sciences*, UCL, 2010 – 2014
 
 
 ### Awards
