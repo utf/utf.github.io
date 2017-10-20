@@ -7,6 +7,7 @@ The slides for most of my talks can be found on [Speaker Deck](https://speakerde
 
 ### Conference Presentations
 
+ 1. **(Contributed)** "Non-toxic and earth-abundant V–VI–VII semiconductors for solar cells", *Advances in Photovoltaics*, London, UK, (2017)
  1. **(Invited)** "Non-toxic and earth-abundant bismuth chalcohalide photovoltaics", *CAM-IES*, London, UK, (2017)
  1. **(Contributed)** "Non-toxic and earth-abundant V–VI–VII semiconductors for solar cells", *E-MRS Spring Meeting*, Strasbourg, France, (2016)
  1. **(Contributed)** "Beyond MAPbI<sub>3</sub>: the search for stable hybrid halide perovskites", *E-MRS Spring Meeting*, Strasbourg, France, (2016)
