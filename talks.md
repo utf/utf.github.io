@@ -7,6 +7,9 @@ The slides for most of my talks can be found on [Speaker Deck](https://speakerde
 
 ### Conference Presentations
 
+ 1. **(Invited)** "The search for transparent oxide thermoelectrics", *Thomas Young Centre Lunchtime Get-Together*, University College London, UK, (2017)
+ 1. **(Invited)** "Searching for high ZT oxide thermoelectrics", *Spectroscopy Village*, Diamond Light Source, UK, (2017)
+ 1. **(Contributed)** "Screening of complex oxides for high ZT thermoelectrics", *MRS Fall Meeting*, Boston, USA, (2017)
  1. **(Contributed)** "Non-toxic and earth-abundant V–VI–VII semiconductors for solar cells", *Advances in Photovoltaics*, London, UK, (2017)
  1. **(Invited)** "Non-toxic and earth-abundant bismuth chalcohalide photovoltaics", *CAM-IES*, London, UK, (2017)
  1. **(Contributed)** "Non-toxic and earth-abundant V–VI–VII semiconductors for solar cells", *E-MRS Spring Meeting*, Strasbourg, France, (2016)
