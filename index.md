@@ -23,7 +23,8 @@ and singlet fission organics.
 
 ### Awards
 
- - **2017** Materials Research Society (MRS) Graduate Student Award
+ - **2018** Materials Research Society (MRS) Graduate Student Award (Gold)
+ - **2017** Materials Research Society (MRS) Graduate Student Award (Silver)
  - **2017** Awarded £3,000 for best use of ARCHER (UK national supercomputer)
  - **2017** UCL Computational Chemistry poster presentation prize
  - **2017** UCL M3S Industry Day poster presentation prize
