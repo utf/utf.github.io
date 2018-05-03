@@ -7,6 +7,15 @@ The slides for most of my talks can be found on [Speaker Deck](https://speakerde
 
 ### Conference Presentations
 
+ 1. **(Contributed)** "Improving the Stability of the Hybrid Perovskites – A New Structural Motif", *MRS Spring Meeting*, Arizona, USA (2018)
+ 1. **(Contributed)** "Earth-Abundant Bismuth-Based Semiconductors as Novel Photovoltaics", *MRS Spring Meeting*, Arizona, USA (2018)
+ 1. **(Contributed)** "High ZT Thermoelectrics Identified from Defect Screening of Complex Oxides", *MRS Spring Meeting*, Arizona, USA (2018)
+ 1. **(Contributed)** "Beyond CH3NH3PbI3: Prospects for Emergent Solar Absorbers", *MRS Spring Meeting*, Arizona, USA (2018)
+ 1. **(Contributed)** "Identification of high ZT thermoelectrics from complex oxide screening", *American Chemical Society*, New Orleans, USA (2018)
+ 1. **(Invited)** "Defect Chemistry of Emerging Materials for Photovoltaics", *Seminar*, Colorado State University, USA (2018)
+ 1. **(Contributed)** "Identification of high ZT thermoelectrics from complex oxide screening", *American Chemical Society*, New Orleans, USA (2018)
+ 1. **(Contributed)** "Bismuth chalcohalides as earth-abundant and non-toxic photovoltaics", *American Chemical Society*, New Orleans, USA (2018)
+ 1. **(Contributed)** "Computational screening of complex oxides for high performance thermoelectrics", *Thomas Young Centre Student Day*, University College London, UK, (2018)
  1. **(Invited)** "The search for transparent oxide thermoelectrics", *Thomas Young Centre Lunchtime Get-Together*, University College London, UK, (2017)
  1. **(Invited)** "Searching for high ZT oxide thermoelectrics", *Spectroscopy Village*, Diamond Light Source, UK, (2017)
  1. **(Contributed)** "Screening of complex oxides for high ZT thermoelectrics", *MRS Fall Meeting*, Boston, USA, (2017)
