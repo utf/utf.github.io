@@ -5,8 +5,9 @@ title: About
 ## Welcome
 
 I'm a Postdoc at Lawrence Berkeley National Laboratory working on The Materials Project.
-My research is focused on the
-discovery and analysis of energy materials. I'm particularly interested in
+My current research involves using data science and machine learning to solve problems
+in materials science. My PhD was focused on the discovery and analysis of energy materials
+using computational chemistry techniques. I'm particularly interested in
 [photovoltaics](http://pubs.rsc.org/en/Content/ArticleLanding/2017/CC/C6CC06475B)
 and thermoelectrics but my research spans a broad range of applications, including
 [transparent conductors](http://pubs.rsc.org/en/Content/ArticleLanding/2016/TC/C5TC04089B),
