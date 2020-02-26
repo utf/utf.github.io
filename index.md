@@ -4,15 +4,16 @@ title: About
 
 ## Welcome
 
-I'm a Postdoc at Lawrence Berkeley National Laboratory working on The Materials Project.
+I'm a Postdoc at Lawrence Berkeley National Laboratory working on [The Materials Project](https://materialsproject.org).
 My current research involves using data science and machine learning to solve problems
-in materials science. My PhD was focused on the discovery and analysis of energy materials
-using computational chemistry techniques. I'm particularly interested in
-[photovoltaics](http://pubs.rsc.org/en/Content/ArticleLanding/2017/CC/C6CC06475B)
-and thermoelectrics but my research spans a broad range of applications, including
+in materials science. Most recently I've developed a [new framework](https://hackingmaterials.lbl.gov/amset/)
+to calculate electron rates from first principles. My PhD was focused on the discovery and analysis of energy materials
+using first principles calculations. My my research spans a broad range of applications, including
+[photovoltaics](http://pubs.rsc.org/en/Content/ArticleLanding/2017/CC/C6CC06475B),
+[thermoelectrics](https://chemrxiv.org/articles/Computational_Discovery_of_Promising_New_n-type_Dopable_ABX_Zintl_Thermoelectric_Materials/11821497)
 [transparent conductors](http://pubs.rsc.org/en/Content/ArticleLanding/2016/TC/C5TC04089B),
 [covalent organic frameworks](http://pubs.rsc.org/en/Content/ArticleLanding/2016/CC/C6CC03895F),
-and singlet fission organics.
+and [singlet fission organics](https://pubs.acs.org/doi/abs/10.1021/jacs.9b06346).
 
 ### Education & Training
 
@@ -23,7 +24,9 @@ and singlet fission organics.
 
 ### Awards
 
+ - **2019** Springer Thesis Prize
  - **2018** Scopus Early Career Researcher Award
+ - **2018** MAPS Faculty Postgraduate Research Prize, University College London
  - **2018** Catlow Prize, University College London
  - **2018** Materials Research Society (MRS) Graduate Student Award (Gold)
  - **2017** Materials Research Society (MRS) Graduate Student Award (Silver)

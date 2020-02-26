@@ -7,6 +7,11 @@ The slides for most of my talks can be found on [Speaker Deck](https://speakerde
 
 ### Conference Presentations
 
+ 1. **(Invited)** "Defect and carrier transport properties of emerging bismuth-based photovoltaics", *American Chemical Society*, San Diego, USA (2019)
+ 1. **(Invited)** "Computational approaches for smart high-throughput calculations and machine learning", *CECAM*, Liverpool, UK (2019)
+ 1. **(Invited)** "Electronic transport properties from first principles calculations", *Seminar*, University of Warwick, UK (2019)
+ 1. **(Invited)** "Defect chemistry of emerging photovoltaic absorbers", *Seminar*, University of California, Santa Barbara, USA (2019)
+ 1. **(Contributed)** "Improving the Stability of the Hybrid Perovskites – A New Structural Motif", *MRS Spring Meeting*, Arizona, USA (2018)
  1. **(Contributed)** "Improving the Stability of the Hybrid Perovskites – A New Structural Motif", *MRS Spring Meeting*, Arizona, USA (2018)
  1. **(Contributed)** "Earth-Abundant Bismuth-Based Semiconductors as Novel Photovoltaics", *MRS Spring Meeting*, Arizona, USA (2018)
  1. **(Contributed)** "High ZT Thermoelectrics Identified from Defect Screening of Complex Oxides", *MRS Spring Meeting*, Arizona, USA (2018)
