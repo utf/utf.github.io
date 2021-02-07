@@ -8,7 +8,7 @@ I'm a Postdoc at Lawrence Berkeley National Laboratory working on [The Materials
 My current research involves using data science and machine learning to solve problems
 in materials science. Most recently I've developed a [new framework](https://hackingmaterials.lbl.gov/amset/)
 to calculate electron lifetimes from first principles. My PhD was focused on the discovery and analysis of energy materials
-using first principles calculations. My my research spans a broad range of applications, including
+using first principles calculations. My research spans a broad range of applications, including
 [photovoltaics](http://pubs.rsc.org/en/Content/ArticleLanding/2017/CC/C6CC06475B),
 [thermoelectrics](https://chemrxiv.org/articles/Computational_Discovery_of_Promising_New_n-type_Dopable_ABX_Zintl_Thermoelectric_Materials/11821497)
 [transparent conductors](http://pubs.rsc.org/en/Content/ArticleLanding/2016/TC/C5TC04089B),
