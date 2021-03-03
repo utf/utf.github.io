@@ -15,6 +15,8 @@ A brief overview of the open-source software packages I maintain are listed belo
 
 [atomate](https://github.com/hackingmaterials/atomate): Computational workflows for high-throughput materials science.
 
+[IFermi](https://github.com/fermisurfaces/IFermi): Tools for the generation, analysis and visualisation of Fermi surfaces.
+
 [robocrystallographer](https://github.com/hackingmaterials/robocrystalloger): Crystal structure text descriptions and analysis.
 
 [sumo](https://github.com/smtg-ucl/sumo): Heavyweight plotting tools for ab initio calculation data.
