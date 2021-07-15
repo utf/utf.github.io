@@ -10,7 +10,7 @@ in materials science. Most recently I've developed a [new framework](https://hac
 to calculate electron lifetimes from first principles. My PhD was focused on the discovery and analysis of energy materials
 using first principles calculations. My research spans a broad range of applications, including
 [photovoltaics](http://pubs.rsc.org/en/Content/ArticleLanding/2017/CC/C6CC06475B),
-[thermoelectrics](https://chemrxiv.org/articles/Computational_Discovery_of_Promising_New_n-type_Dopable_ABX_Zintl_Thermoelectric_Materials/11821497)
+[thermoelectrics](https://pubs.rsc.org/en/content/articlelanding/2020/mh/d0mh00197j/unauth#!divAbstract),
 [transparent conductors](http://pubs.rsc.org/en/Content/ArticleLanding/2016/TC/C5TC04089B),
 [covalent organic frameworks](http://pubs.rsc.org/en/Content/ArticleLanding/2016/CC/C6CC03895F),
 and [singlet fission organics](https://pubs.acs.org/doi/abs/10.1021/jacs.9b06346).
