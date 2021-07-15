@@ -6,8 +6,8 @@ title: About
 
 I'm an EPSRC Research Fellow at Imperial College London working on functinal materials design and discovery.
 My current research involves using data science and machine learning to solve problems
-in materials science. Most recently I've developed a [new framework](https://hackingmaterials.lbl.gov/amset/)
-to calculate electron lifetimes from first principles. My PhD was focused on the discovery and analysis of energy materials
+in materials science. Most recently, I've developed a new framework
+to calculate [electron lifetimes from first principles](https://www.nature.com/articles/s41467-021-22440-5). My PhD was focused on the discovery and analysis of energy materials
 using first principles calculations. My research spans a broad range of applications, including
 [photovoltaics](http://pubs.rsc.org/en/Content/ArticleLanding/2017/CC/C6CC06475B),
 [thermoelectrics](https://pubs.rsc.org/en/content/articlelanding/2020/mh/d0mh00197j/unauth#!divAbstract),
