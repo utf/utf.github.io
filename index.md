@@ -4,7 +4,7 @@ title: About
 
 ## Welcome
 
-I'm a Postdoc at Lawrence Berkeley National Laboratory working on [The Materials Project](https://materialsproject.org).
+I'm an EPSRC Research Fellow at Imperial College London working on functinal materials design and discovery.
 My current research involves using data science and machine learning to solve problems
 in materials science. Most recently I've developed a [new framework](https://hackingmaterials.lbl.gov/amset/)
 to calculate electron lifetimes from first principles. My PhD was focused on the discovery and analysis of energy materials
@@ -17,10 +17,16 @@ and [singlet fission organics](https://pubs.acs.org/doi/abs/10.1021/jacs.9b06346
 
 ### Education & Training
 
- - **Postdoc** *The Materials Project*, Lawrence Berkeley National Laboratory, 2018 - present
+ - **EPSRC Research Fellow** *Materials discovery*, Imperial College London, 2021 - present
+ - **Postdoc** *The Materials Project*, Lawrence Berkeley National Laboratory, 2018 - 2021
  - **EngD** *Molecular Modelling and Materials Science*, UCL, 2015 – 2018
  - **MRes. (Distinction)** *Molecular Modelling and Materials Science*, UCL, 2014 – 2015
  - **MSci. (1st Class Hons)** *Natural Sciences*, UCL, 2010 – 2014
+
+### Funding
+
+ - **2021** EPSRC Postdoctoral Fellowship
+ - **2021** Marie Skłodowska-Curie Individual Fellowship (*declined for EPSRC Fellowship*)
 
 ### Awards
 
